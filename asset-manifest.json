@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/WomenShopping/static/css/main.26485996.css",
+    "main.js": "/WomenShopping/static/js/main.731bbdd9.js",
+    "static/js/453.0c93e391.chunk.js": "/WomenShopping/static/js/453.0c93e391.chunk.js",
+    "static/media/hero-video.mp4": "/WomenShopping/static/media/hero-video.f09463fcc233a9bb65a4.mp4",
+    "static/media/category-all-hero.mp4": "/WomenShopping/static/media/category-all-hero.742a90c8e7b7cf84c029.mp4",
+    "static/media/cart-hero.mp4": "/WomenShopping/static/media/cart-hero.55f324f419aa0b668e11.mp4",
+    "static/media/category-dresses-hero.mp4": "/WomenShopping/static/media/category-dresses-hero.9238084125e92c9d9b70.mp4",
+    "static/media/category-shoes-hero.mp4": "/WomenShopping/static/media/category-shoes-hero.7d3d5b2a93bdcca918ae.mp4",
+    "static/media/category-blouses-hero.mp4": "/WomenShopping/static/media/category-blouses-hero.39da3f472eaa2cb11d27.mp4",
+    "static/media/gridTwo.jpeg": "/WomenShopping/static/media/gridTwo.27f26557f20870506f29.jpeg",
+    "static/media/category-jeans-hero.mp4": "/WomenShopping/static/media/category-jeans-hero.5f5e7cc03d45a33a11a6.mp4",
+    "static/media/gridFive.jpeg": "/WomenShopping/static/media/gridFive.9f3ad6da3845be82e3ba.jpeg",
+    "static/media/gridFour.jpeg": "/WomenShopping/static/media/gridFour.1ce598ec4f6781e7c33b.jpeg",
+    "static/media/gridOne.jpeg": "/WomenShopping/static/media/gridOne.97fe9e40b954550697fa.jpeg",
+    "static/media/gridThree.jpeg": "/WomenShopping/static/media/gridThree.18500b3438614268acd3.jpeg",
+    "index.html": "/WomenShopping/index.html",
+    "main.26485996.css.map": "/WomenShopping/static/css/main.26485996.css.map",
+    "main.731bbdd9.js.map": "/WomenShopping/static/js/main.731bbdd9.js.map",
+    "453.0c93e391.chunk.js.map": "/WomenShopping/static/js/453.0c93e391.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26485996.css",
+    "static/js/main.731bbdd9.js"
+  ]
+}
